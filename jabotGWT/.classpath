@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="/home/vpedro/Work/programs/gwt-2.7.0/gwt-user.jar"/>
+	<classpathentry kind="lib" path="/home/vpedro/Work/programs/gwt-2.7.0/gwt-dev.jar"/>
+	<classpathentry kind="lib" path="/home/vpedro/Work/programs/gwt-2.7.0/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="/home/vpedro/Work/programs/gwt-2.7.0/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gin-2.1.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/guice-assistedinject-3.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-servlet.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/javax.inject.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/mvp4g-1.5.0.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
